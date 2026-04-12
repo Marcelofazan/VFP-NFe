@@ -1,6 +1,6 @@
 ## Integração de sistemas Sefaz com FoxPro
 
-Exemplo em Visual FoxPro de integração de sistemas (Sefaz) utilizando DLL DFe da Unimake. 
+Exemplo em Visual FoxPro de integração de sistemas (SEFAZ) utilizando DLL DFe da Unimake. 
 
 
 ## Requisitos
