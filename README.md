@@ -2,7 +2,6 @@
 
 Exemplo em Visual FoxPro de integração de sistemas (SEFAZ) utilizando DLL DFe da Unimake. 
 
-
 ## Requisitos
 
 - Registro Server da DLL Unimake com RegAsm.exe 
@@ -28,11 +27,10 @@ Exemplo em Visual FoxPro de integração de sistemas (SEFAZ) utilizando DLL DFe 
 
   - [Unimake](https://wiki.unimake.com.br/index.php/Manuais:Unimake.DFe/CodigoConsumoVisualFoxPro)
 
-
 ## NFe 
 
 A NF-e (Nota Fiscal Eletrônica) é um documento digital obrigatório, com validade jurídica, emitido e armazenado eletronicamente para registrar vendas de produtos ou mercadorias físicas. Ela substitui o modelo em papel, garantindo fiscalização em tempo real pelo Fisco através de assinatura digital. 
 
-# Refatoração de Código
+## Refatoração de Código
 
-Criada conversão de linguaguens com exemplo da Unimake cedido em Visual Basic. 
+Exemplo criado através de conversão de linguaguens, reescrito com base no exemplo disponibilizado em Visual Basic pela Unimake. 
