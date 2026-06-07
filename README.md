@@ -21,5 +21,5 @@ Exemplo em Visual FoxPro de integração de sistemas com a SEFAZ utilizando DLL 
 - Registro Server da DLL Unimake com (**RegAsm**)
 - Disponivel em GitHub: ([https://github.com/Unimake/DFe](https://github.com/Unimake/DFe))
 
-#### 💪 Refatoração de Código
+#### Refatoração de Código
 Exemplo criado através de conversão de linguaguens, reescrito com base no exemplo disponibilizado em **Visual Basic** pela (Unimake). 
