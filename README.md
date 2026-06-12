@@ -1,7 +1,7 @@
 ## 💻 Exemplo-Visual-FoxPro-NFe-SEFAZ
 Exemplo em Visual FoxPro de integração de sistemas com a SEFAZ utilizando DLL DFe da Unimake.
 
-#### O que você vai encontrar neste projeto
+#### 📋 O que você vai encontrar neste projeto
 - **NFe** - Utilização de autorizarnfe
 - **NFe** - Utilização de autorizarporarquivonfe
 - **NFe** - Utilização de cancelarnfe
