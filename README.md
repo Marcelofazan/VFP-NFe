@@ -17,7 +17,7 @@ Exemplo de integração de sistemas com a SEFAZ em Visual FoxPro, utilizando DLL
 - **NFe** - Utilização de selecionarcertificadoa1
 - **NFe** - Utilização de validarxml
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 - Registro Server da DLL Unimake com (**RegAsm**)
 - Disponivel em GitHub: ([https://github.com/Unimake/DFe](https://github.com/Unimake/DFe))
 
